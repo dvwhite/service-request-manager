@@ -1,6 +1,6 @@
 # Service Request Manager
 ## David White
-## 1/11/2020
+## Project start date: 1/11/2020
 
 The service industries (such as teaching, hospitality, and healthcare, to name a few) need software to manage the volume of service requests from their customers in a scaleable and efficient manner that is also satisfactory to the customer. Request management software is essential to tracking, dispatching, and coordinating resources to service requests. Other industries providing support or repair services could also benefit from this model, since they also receive service requests or an analogue. 
 
