@@ -2,9 +2,9 @@
 ## David White
 ## 1/11/2020
 
-The service industries (such as teaching, hospitality, and healthcare, to name a few) need software to manage the volumne of service requests from their customers in a scale-able and efficient manner that is also satisfactory to the customer. A service request manager is essential to tracking, dispatching, and coordinating resources to service requests. Even other industries providing support or repair services can benefit from this model since they also receive service requests. 
+The service industries (such as teaching, hospitality, and healthcare, to name a few) need software to manage the volume of service requests from their customers in a scaleable and efficient manner that is also satisfactory to the customer. Request management software is essential to tracking, dispatching, and coordinating resources to service requests. Other industries providing support or repair services could also benefit from this model, since they also receive service requests or an analogue. 
 
-You'll like this project if you work with service requests in some way, and want to track, coordinate or dispatch resources to requests, and open or close a service ticket
+You'll like this project if you work with service requests in some fashion, and want to track, coordinate or dispatch resources to requests, and open or close a service ticket.
 .
 
 ## Goals of this project
@@ -21,13 +21,13 @@ To design and develop the project to make adding a feature much easier, since ma
 ### Request List
 An interactive list of requests for the given date
 
-### Single Request View
+### Single Request Viewer
 A modal that enables you to view, edit, save and delete a service request
 
 ### Request Age Tracker
 Track the time since a request has been made, and optionally, change request state or appearance based on time-based information
 
-### Request Reminders
+### Request Reminder
 Set a reminder to review a request at a later date or time
 
 ### Resource Dashboard
